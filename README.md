@@ -4,22 +4,15 @@
 [Source](https://gfycat.com/meagerhardtofindalbertosaurus-hello-there-star-wars-prequelmemes)
 
 ### Achievements
+UnderGrad Study - Sapthagiri college of Engineering, Bangalore
+Grd Study - California State univeristy longBeach
+Experience - Application Development Senior Analyst, Accenture | 5Years
 
-Do you have or know an Achievement not listed [here](https://github.com/Schweinepriester/github-profile-achievements#achievements)? Let me know! :)
 
-![](https://komarev.com/ghpvc/?username=Schweinepriester)
-
-<!--
-**Schweinepriester/Schweinepriester** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 🔭 I’m currently working on ... React,Node.js Application
+- 🌱 I’m currently learning ... Machine Learning - Sentiment Analysis
+- 😄 Pronouns: ...  She / Her
 - ⚡ Fun fact: ...
--->
+
+
+![](https://komarev.com/ghpvc/?username=AkshathaHebba)
