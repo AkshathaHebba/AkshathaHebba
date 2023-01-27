@@ -15,6 +15,8 @@
 
 - 🔭 I’m currently working on ... React,Node.js Application
 - 🌱 I’m currently learning ... Machine Learning - Sentiment Analysis
+- 🔗 Used 
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=AkshathaHebba)
 - 😄 Pronouns: ...  She / Her
 - ⚡ Fun fact: ...
 
