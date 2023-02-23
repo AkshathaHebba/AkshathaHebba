@@ -11,7 +11,7 @@
 -Experience :: Application Development Senior Analyst, Accenture | 5Years
 
 ### What am I doing?
-- 🔭 I’m currently working on ... Node.js Application
+- 🔭 I’m currently working on ... Node.js Express Application - roles, authentication
 - 🌱 I’m currently learning ... Machine Learning - Sentiment Analysis
 
 <!-- - 🔗 Used 
