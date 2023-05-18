@@ -1,7 +1,4 @@
 
-![](/PepperyGrizzledClownanemonefish-max-1mb.gif)  
-[Source](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgfycat.com%2Fdiscover%2Fhello-gifs&psig=AOvVaw3r1toV36HBBFt-5q4WEjV4&ust=1674943897295000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCIjtxLHi6PwCFQAAAAAdAAAAABAI)
-
 ## Introduction
 Hello there! Welcome to my GitHub repository. Here's a little bit about me:
 
