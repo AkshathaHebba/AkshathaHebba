@@ -5,6 +5,8 @@ Hello there! Welcome to my GitHub repository. Here's a little bit about me:
 ## Degree:
 
 Undergrad Study: Sapthagiri College of Engineering, Bangalore
+
+
 Graduate Study: Masters in Computer Science, California State University Long Beach 🏄‍♀️
 
 ## Skills
